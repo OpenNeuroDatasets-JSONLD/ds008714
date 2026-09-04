@@ -11,12 +11,12 @@
         "Christina O. Carlisi"
     ],
     "BIDSVersion": "1.8.0",
-    "DatasetDOI": "doi:10.18112/openneuro.ds008714.v1.0.5",
+    "DatasetDOI": "doi:10.18112/openneuro.ds008714.v1.0.4",
     "Funding": [
         "Prudence Trust",
         "Bickbeck-UCL Centre for NeuroImaging (BUCNI)"
     ],
-    "HowToAcknowledge": "Please cite the following preprint: https://www.biorxiv.org/content/10.64898/2026.08.28.747840v1",
+    "HowToAcknowledge": "Please cite the following preprint: https://doi.org/10.64898/2026.08.28.747840",
     "License": "CC0",
     "Name": "Naturalistic Neuroimaging Database - Teens",
     "ReferencesAndLinks": [
